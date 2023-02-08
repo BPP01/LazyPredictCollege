@@ -1,0 +1,9 @@
+Predicting Admissions Problem - A Kaggle dataset
+
+
+This is a theoretically simple data analysis problem. You have lots of data describing the various performance metrics used to assess entry to graduate school programs. 
+
+We need to create a ML model which will predict the likelihood of a given student being accepted by a program given their scores in these metrics.
+
+This will likely be a linear regression model question, there are accompanying notebooks which we can check back to later at this link: https://www.kaggle.com/datasets/mukeshmanral/graduates-admission-prediction?resource=download 
+
